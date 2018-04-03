@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Update>
+  <Android>
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="unknown" appMarketName="未知应用市场" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="110" versionName="V1.1.0" size="13.2M" versionDescription="[&quot;1.新增更多商品模块,帮您快速锁定商品&quot;,&quot;2.新增商品筛选功能,帮您准确定位商品&quot;,&quot;2.优化性能,修复部分bug,为您提供更好体验&quot;]" downUrl="http://down.manjd.net/apk/v1/manjd-v1.1.0-psigned.apk" appMarketCode="manjd" appMarketName="主站" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_360" appMarketName="360助手" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_anzhi" appMarketName="安智" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_baidu" appMarketName="百度" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_eoemarket" appMarketName="优亿" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_huawei" appMarketName="华为" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_jifeng" appMarketName="机锋" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_lenovo" appMarketName="联想" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_leshi" appMarketName="乐视" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_meizu" appMarketName="魅族" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_mumayi" appMarketName="木蚂蚁" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_oppo" appMarketName="OPPO" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_aliyun" appMarketName="阿里云" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_smartisan" appMarketName="锤子" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_samsung" appMarketName="三星" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_vivo" appMarketName="vivo" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_wostore" appMarketName="联通" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_xiaomi" appMarketName="小米" />
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="10M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="" appMarketCode="extra_yiyongbao" appMarketName="应用宝" />
+  </Android>
+  <IOS>
+    <Item minUpdateVer="100" maxUpdateVer="100" version="100" versionName="V1.0.0" size="20M" versionDescription="[&quot;1.更新信息 &quot;,&quot;2.更新信息 &quot;]" downUrl="https://itunes.apple.com/cn/app/id1330935588?l=zh&amp;ls=1&amp;mt=8" appMarketCode="appstore" appMarketName="appstore" />
+  </IOS>
+</Update>
